@@ -1,5 +1,5 @@
 ### Hi there 👋, I am
-(https://media.licdn.com/dms/image/v2/D5616AQEMq7e9dXsYbA/profile-displaybackgroundimage-shrink_350_1400/B56ZT_jqmpGoAY-/0/1739454330205?e=1744848000&v=beta&t=sS-LceuTvOwCNPpkQIK5AUe_nzKCqRtjOyNqC22pbYc)
+![I am a creative and detail-oriented software developer.](https://media.licdn.com/dms/image/v2/D5616AQEMq7e9dXsYbA/profile-displaybackgroundimage-shrink_350_1400/B56ZT_jqmpGoAY-/0/1739454330205?e=1744848000&v=beta&t=sS-LceuTvOwCNPpkQIK5AUe_nzKCqRtjOyNqC22pbYc)
 You can view and download my resume from the link below:
 [Download My Resume](https://drive.google.com/file/d/1qlCCFx90n3cywm0EH0ToVWYfwQSG69F2/view)
 
