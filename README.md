@@ -1,7 +1,7 @@
 ### Hi there 👋, I am
 ![I am a creative and detail-oriented software developer.](https://media.licdn.com/dms/image/v2/D5616AQEMq7e9dXsYbA/profile-displaybackgroundimage-shrink_350_1400/B56ZT_jqmpGoAY-/0/1739454330205?e=1744848000&v=beta&t=sS-LceuTvOwCNPpkQIK5AUe_nzKCqRtjOyNqC22pbYc)
 You can view and download my resume from the link below:
-[Download My Resume](https://drive.google.com/file/d/1qlCCFx90n3cywm0EH0ToVWYfwQSG69F2/view)
+[Download My Resume](https://drive.google.com/file/d/1ECwwbQxwa0GQcA5cG6hnBdmeKfakOCyE/view)
 
 ### About Me:
 I am an enthusiastic and detail-oriented software engineer with expertise in Python, SQL, Machine Learning, and Deep Learning. I am also proficient in Exploratory Data Analysis using key libraries such as NumPy, Pandas, Matplotlib, and Seaborn. My research on applying ML and DL techniques to predict purchase intention was published in 2023 as a book chapter, and another research paper that is accepted in IEEE Conference, organized by ECCE 2025, CUET. I am Quick learner, team player, and effective communicator.
