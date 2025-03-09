@@ -1,7 +1,7 @@
 ### Hi there 👋, Assalamu Alaikum.
 ![I am a creative and detail-oriented software developer.](https://media.licdn.com/dms/image/v2/D5616AQEMq7e9dXsYbA/profile-displaybackgroundimage-shrink_350_1400/B56ZT_jqmpGoAY-/0/1739454330205?e=1744848000&v=beta&t=sS-LceuTvOwCNPpkQIK5AUe_nzKCqRtjOyNqC22pbYc)
 You can view and download my resume from the link below:
-[Download My Resume](https://drive.google.com/file/d/1oTXgI9mETmAx4H86NBpwe_qWS-dSEx6X/view)
+[Download My Resume](https://drive.google.com/file/d/1fJwH1o_yi7nab9wPmQtsCbNfusqEI47l/view)
 
 ### About Me:
 I am Aslam Sikder, an enthusiastic and detail-oriented software engineer and AI/ML Researcher with a strong background in Python, SQL, Machine Learning, and Deep Learning. I hold a Master's degree in Computer Science & Engineering from Dhaka University of Engineering & Technology (DUET). My expertise includes working with technologies like Django, Scikit-learn, TensorFlow, Keras, and performing Exploratory Data Analysis using NumPy, Pandas, Matplotlib, and Seaborn.
@@ -18,8 +18,9 @@ I am always eager to collaborate on projects, research, learn new technologies, 
 
 ### Technical Skills: 
 - Programming Language: Python, SQL, C, C++, HTML, CSS, JavaScript
-- Framework: Django, MVC, Bootstrap
-- Machine learning libraries: Scikit-learn, TensorFlow, Keras
+- Libraries & Framework: Scikit-learn, TensorFlow, Keras, Django, MVC, Bootstrap
+- Machine learning: Supervised & Unsupervised Learning, Regression, Decision Trees, Random Forest
+- Neural Net & Deep Learning: ANN, FFNN, RNN, LSTM, Transformer
 - Exploratory Data Analysis: NumPy, Pandas, Matplotlib, and Seaborn.
 - Database: MySQL, and PostgreSQL
 - Cloud Service: AWS (Amazon Web Services)
