@@ -28,7 +28,7 @@ I am always eager to collaborate on projects, research, learn new technologies, 
 - Operating System: Windows, Linux
 - Version Control: Git, GitHub
 - Development Environment: Colab, Anaconda Navigator, Jupyter Notebook, Visual Studio Code
-- Problem solving skill in different online judge.
+- Problem-Solving: Active participation in coding challenges on online platforms.
 
 ### Publication:
 - Sikder, Aslam, Md Waliur Rahman Miah, Bimal Chandra Das, and Md Mijanur Rahman. "Analysis of Online Purchase Intentions of Young Bangladeshi Social Network Users." In Applied Informatics for Industry 4.0, pp. 20-33. Chapman and Hall/CRC, 2023. DOI: 10.1201/9781003256069-3
