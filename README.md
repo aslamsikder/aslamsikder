@@ -15,7 +15,7 @@ I am always eager to collaborate on projects, research, learn new technologies, 
 -	ML/DL: Supervised & Unsupervised Learning, Ensemble methods, RF, ANN, CNN, RNN, LSTM, Transformer
 -	Data Visualization: Pandas, NumPy, Matplotlib, Seaborn 
 -	Cloud & DevOps: AWS, Linux 
--	Tools: Git, GitHub, Jupyter, Anaconda, Colab, VS Code, Microsoft Office (Word, Excel, PowerPoint)
+-	Tools: Git, GitHub, SPSS, Tableu, Jupyter, Anaconda, Colab, VS Code, Microsoft Office (Word, Excel, PowerPoint)
 -	Problem-Solving: Active participation in coding challenges on online platforms
 
 ### Publication:
@@ -25,7 +25,7 @@ I am always eager to collaborate on projects, research, learn new technologies, 
 - Aslam Sikder, Md. Jakirul Islam, Md. Waliur Rahman Miah (2025). Hybrid Deep Learning Model for predicting Online shoppers Purchase Intention. [Status: Ongoing, preparing for a journal].
 
 You can view and download my resume from the link below:
-[Download My Resume](https://drive.google.com/file/d/1xNfOGPaeO4EjZRH_c2Mu1DqAT2hn7_fG/view)
+[Download My Resume](https://drive.google.com/file/d/1lZPN9lQXudZSy5PZTgkapKGT1fch3LK0/view)
 
 ### Social Links:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aslamsikder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aslamsikder//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aslamsikderduet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOXfcVWrP2I1uoVqUkt6krQ)
