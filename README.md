@@ -23,7 +23,7 @@ As a Certified Trainer & Assessor, I’ve also mentored students and professiona
 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, and Agentic AI
 👨‍💻 All of my projects are available at [Aslam Sikder-Github](https://github.com/aslamsikder)
 📫 How to reach me: aslamsikder.edu@gmail.com
-📚 Research Profile: [Google Scholar - Aslam Sikder] (https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)
+📚 Research Profile: [Google Scholar - Aslam Sikder](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)
 
 ### Publication:
 - Sikder, Aslam, Md Waliur Rahman Miah, Bimal Chandra Das, and Md Mijanur Rahman. "Analysis of Online Purchase Intentions of Young Bangladeshi Social Network Users." In Applied Informatics for Industry 4.0, pp. 20-33. Chapman and Hall/CRC, 2023. DOI: 10.1201/9781003256069-3
