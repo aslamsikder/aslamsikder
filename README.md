@@ -18,12 +18,12 @@ As a Certified Trainer & Assessor, I’ve also mentored students and professiona
 - Tools: Git, GitHub, SPSS, Jupyter, Anaconda, Colab, VS Code, Microsoft Office (Word, Excel, PowerPoint)
 - Problem-Solving: Active participation in coding challenges on online platforms
 
-🌱 I’m currently exploring Agentic AI and Explainable AI
-👯 I’m looking to collaborate on AI/ML Research
-💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, and Agentic AI
-👨‍💻 All of my projects are available at [Aslam Sikder-Github](https://github.com/aslamsikder)
-📫 How to reach me: aslamsikder.edu@gmail.com
-📚 Research Profile: [Google Scholar - Aslam Sikder](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)
+🌱 I’m currently exploring Agentic AI and Explainable AI <br>
+👯 I’m looking to collaborate on AI/ML Research <br>
+💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, and Agentic AI <br>
+👨‍💻 All of my projects are available at [Aslam Sikder-Github](https://github.com/aslamsikder) <br>
+📫 How to reach me: aslamsikder.edu@gmail.com <br>
+📚 Research Profile: [Google Scholar - Aslam Sikder](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ) <br>
 
 ### Publication:
 - Sikder, Aslam, Md Waliur Rahman Miah, Bimal Chandra Das, and Md Mijanur Rahman. "Analysis of Online Purchase Intentions of Young Bangladeshi Social Network Users." In Applied Informatics for Industry 4.0, pp. 20-33. Chapman and Hall/CRC, 2023. DOI: 10.1201/9781003256069-3
@@ -34,9 +34,9 @@ As a Certified Trainer & Assessor, I’ve also mentored students and professiona
 You can view and download my resume from the link below:
 [Download My Resume](https://drive.google.com/file/d/19Jz1wY3kgOQxGa1DS7jDa_rRRjE-Z1E8/view)
 
-Why should you hire me?
-✔️ I am a sincere, honest, hardworking, and dedicated employee with a professional attitude.
-✔️ I have a strong mindset toward problem-solving and the capacity to come up with creative solutions for challenging issues.
+Why should you hire me? <br>
+✔️ I am a sincere, honest, hardworking, and dedicated employee with a professional attitude. <br>
+✔️ I have a strong mindset toward problem-solving and the capacity to come up with creative solutions for challenging issues. <br>
 
 For more details on my work and projects, feel free to check out my GitHub profile: https://github.com/aslamsikder
 
