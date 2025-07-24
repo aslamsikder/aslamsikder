@@ -3,20 +3,20 @@ I’m Aslam Sikder, an AI Engineer and Researcher passionate about building scal
 
 With a strong academic foundation (BSc. & MSc. in Computer Science & Engineering) and 3+ years of experience in machine learning, deep learning, and LLM-based agentic systems, I specialize in end-to-end AI solutions — from model design to deployment.
 
-I’ve developed predictive models using Transformers, TabTransformer, and ensemble methods, created intelligent document checkers using LangChain and Hugging Face, and deployed ML apps. My research has been published in top venues, including IEEE, focusing on predictive modelling and the application of deep learning.
+I’ve developed predictive models using Transformers, TabTransformer, and ensemble methods, created intelligent document checkers using LangChain and Hugging Face, and deployed ML apps. My research has been published in top venues, including IEEE, with a focus on predictive modeling and the application of deep learning.
 
-As a Certified Trainer & Assessor, I’ve also mentored students and professionals on real-world AI tools, data science workflows, and web development. I am always eager to collaborate on projects, research, learn new technologies, and solve complex problems through innovative solutions.
+As a certified trainer and assessor, I’ve also mentored students and professionals on real-world AI tools, data science workflows, and web development. I am always eager to collaborate on projects, research, learn new technologies, and solve complex problems through innovative solutions.
 
 🛠️ Core Technical Skills:
-- Programming Language: Python, SQL, C, C++, HTML, CSS, JavaScript
-- ML/DL: Supervised, Unsupervised & Ensemble Learning, RF, XGBoost, ANN, CNN, RNN, LSTM, Transformer
-- Frameworks/Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, Flask, Django, Streamlit, REST APIs.
-- LLMs & Agents: LangChain, Open Source LLM APIs, Agentic AI Pipelines, VectorDBs (FAISS, ChromaDB, Pinecone)
-- Data Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Cloud Deployment: AWS, Streamlit
-- Database: MySQL, PostgreSQL
-- Tools: Git, GitHub, SPSS, Jupyter, Anaconda, Colab, VS Code, Microsoft Office (Word, Excel, PowerPoint)
-- Problem-Solving: Active participation in coding challenges on online platforms
+-	Programming Language: Python, SQL, C, C++, HTML, CSS, JavaScript
+-	ML/DL: Supervised, Unsupervised & Ensemble Learning, RF, XGBoost, ANN, CNN, RNN, LSTM, Transformer
+-	Frameworks/Libraries: Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, Django, Streamlit.
+-	LLMs & Agents: LangChain, CrewAI, Open Source LLM, Agentic AI Pipelines
+-	Data Visualization: Pandas, NumPy, Matplotlib, Seaborn
+-	Cloud Deployment: AWS, Streamlit
+-	Database: MySQL, PostgreSQL, VectorDBs (FAISS, ChromaDB, Pinecone)
+-	Tools: Git, GitHub, SPSS, Jupyter, Anaconda, Colab, VS Code, Microsoft Office (Word, Excel, PowerPoint)
+-	Problem-Solving: Active participation in coding challenges on the online platform
 
 🌱 I’m currently exploring Agentic AI and Explainable AI <br>
 👯 I’m looking to collaborate on AI/ML Research <br>
@@ -28,11 +28,11 @@ As a Certified Trainer & Assessor, I’ve also mentored students and professiona
 ### Publication:
 - Sikder, Aslam, Md Waliur Rahman Miah, Bimal Chandra Das, and Md Mijanur Rahman. "Analysis of Online Purchase Intentions of Young Bangladeshi Social Network Users." In Applied Informatics for Industry 4.0, pp. 20-33. Chapman and Hall/CRC, 2023. DOI: 10.1201/9781003256069-3
 - Sikder, A., Islam, M. J., & Miah, M. W. R. (2025, February). “Predicting Purchase Intentions in Bangladesh’s Youth Market: A Competent Analysis of Machine Learning and Deep Learning Models.” In 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE) (pp. 1-6). IEEE
-- Aslam Sikder, Md. Jakirul Islam, Md. Waliur Rahman Miah (2025). Enhancing Online Shopper Purchase Prediction Using Transformer Networks with SMOTE and Attention Mechanism [Status: Ongoing, preparing for a conference].
-- Aslam Sikder, Md. Jakirul Islam, Md. Waliur Rahman Miah (2025). Hybrid Deep Learning Model for predicting Online shoppers Purchase Intention. [Status: Ongoing, preparing for a journal].
+- Aslam Sikder, Md. Jakirul Islam, Md. Waliur Rahman Miah (2025). “Towards Fair and Transparent Purchase Intention Prediction: A Deep Learning Pipeline Using TabTransformer, SMOTEENN, and SHAP”. [Status: Ongoing].
+- Aslam Sikder, Md. Jakirul Islam, Md. Waliur Rahman Miah (2025). Hybrid Deep Learning Model for predicting Online shoppers Purchase Intention. [Status: Ongoing].
 
 You can view and download my resume from the link below:
-[Download My Resume](https://drive.google.com/file/d/19Jz1wY3kgOQxGa1DS7jDa_rRRjE-Z1E8/view)
+[Download My Resume](https://drive.google.com/file/d/1b3ARyI00f4c2F0j_uSJQG5Nj9oZAwitN/view)
 
 Why should you hire me? <br>
 ✔️ I am a sincere, honest, hardworking, and dedicated employee with a professional attitude. <br>
